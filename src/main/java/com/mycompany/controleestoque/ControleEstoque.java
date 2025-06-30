@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.gametermo;
+package com.mycompany.controleestoque;
 
 /**
  *
  * @author MASTER
  */
-public class GameTermo {
+public class ControleEstoque {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
